@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="8.604" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="User Registration" name="User registers with all required fields" time="8.429">
+<system-out><![CDATA[
+When I navigate to Register Account page....................................passed
+When I fill all field in the register form..................................passed
+And I select privacy policy field...........................................passed
+And I click Continue button.................................................passed
+Then An account is created..................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
